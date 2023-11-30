@@ -1,0 +1,1 @@
+Inicialmente, neste programa, será exibido o número 2, depois o 200, depois o 20000, depois 2000000, adicionando infinitas vezes dois zeros a mais do que no resultado anterior (ou multiplicando por 100). Isso se deve ao fato de que no bloco de condição if, a parada so aconteceria de i == 30, entretanto, nunca será possível alcançar esse valor da forma em que o código está.
