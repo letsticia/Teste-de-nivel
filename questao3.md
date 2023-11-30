@@ -1,0 +1,1 @@
+No programa da questão 3, o primeiro erro de compilação seria a falta de ponto e vírgula ao final da linha de comando (linha 3), outro possível erro, não sei se define como de compilação em si, tendo em vista que irá compilar, é a falta da declaração do valor de N. Uma vez que o laço for depende desse valor para saber sua parada, pode entrar em um loop.
